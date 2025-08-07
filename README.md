@@ -5,6 +5,7 @@
 เกี่ยวกับ margin : https://www.w3schools.com/css/css_margin.asp <br>
 เกี่่ยวกับ border-radius : https://www.w3schools.com/cssref/css3_pr_border-radius.php <br>
 เกี่ยวกับ outline : https://www.w3schools.com/css/css_outline.asp <br>
+กี่ยวกับ  object-fit Property : https://www.w3schools.com/css/css3_object-fit.asp <br>
 เอกสาร สไลด์เก่า : https://www.slideshare.net/slideshow/css-boc-model/53044104 <br>
 
 
