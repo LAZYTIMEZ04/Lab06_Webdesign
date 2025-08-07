@@ -2,3 +2,6 @@
 
 เกี่นวกับ border ทั้งหมด : <a>https://www.w3schools.com/css/css_border.asp</a> <br>
 เอกสาร สไลด์เก่า : <a>https://www.slideshare.net/slideshow/css-boc-model/53044104</a>
+
+<img width="802" height="450" alt="image" src="https://github.com/user-attachments/assets/be17ef52-e519-45b4-803c-b8b98503199c" />
+
